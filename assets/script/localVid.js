@@ -642,13 +642,13 @@ async function updateDOMWithVideos() {
                                 <span class="button-tooltip">Comments</span>
                             </div>
                             <div class="action-button-container share-button">
-                                <button class="action-button" data-action="share">
+                                <button class="action-button" data-action="apply">
                                     <span class="material-symbols-rounded">
-                                        share
+                                        send
                                     </span>
                                 </button>
-                                <span class="button-text">Share</span>
-                                <span class="button-tooltip">Share</span>
+                                <span class="button-text">Apply</span>
+                                <span class="button-tooltip">Apply</span>
                             </div>
                             <div
                                 class="action-button-container description-button">
