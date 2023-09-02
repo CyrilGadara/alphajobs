@@ -1,4 +1,4 @@
-const cacheName = "CSV2.6";
+const cacheName = "CSV3.0";
 
 const cachedFiles = [
     "/",
