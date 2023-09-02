@@ -1,0 +1,374 @@
+[
+    {
+        "image": "https://dummyimage.com/100x100/ff0000/ffffff",
+        "title": "New Update Available",
+        "date": "2023-08-31",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/00ff00/ffffff",
+        "title": "Upcoming Maintenance",
+        "date": "2023-08-30",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/0000ff/ffffff",
+        "title": "Welcome to Our Platform",
+        "date": "2023-08-29",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ff00ff/ffffff",
+        "title": "Important Announcement",
+        "date": "2023-08-28",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ffff00/ffffff",
+        "title": "Account Verification Required",
+        "date": "2023-08-27",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ff6600/ffffff",
+        "title": "Weekly Newsletter",
+        "date": "2023-08-26",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/6600ff/ffffff",
+        "title": "New Feature: Dark Mode",
+        "date": "2023-08-25",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/00ffff/ffffff",
+        "title": "User Feedback Survey",
+        "date": "2023-08-24",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/9900ff/ffffff",
+        "title": "Holiday Schedule",
+        "date": "2023-08-23",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/00ff99/ffffff",
+        "title": "Congratulations on Your Achievement",
+        "date": "2023-08-22",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ff0099/ffffff",
+        "title": "System Maintenance Complete",
+        "date": "2023-08-21",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/99ff00/ffffff",
+        "title": "New Support Center",
+        "date": "2023-08-20",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/0099ff/ffffff",
+        "title": "Product Launch Event",
+        "date": "2023-08-19",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ff9900/ffffff",
+        "title": "Important Security Update",
+        "date": "2023-08-18",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/9900cc/ffffff",
+        "title": "New Pricing Plans",
+        "date": "2023-08-17",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/00cc99/ffffff",
+        "title": "Join Our Webinar",
+        "date": "2023-08-16",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/cc0099/ffffff",
+        "title": "Product Demo Video",
+        "date": "2023-08-15",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/cc9900/ffffff",
+        "title": "Updated Privacy Policy",
+        "date": "2023-08-14",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/990066/ffffff",
+        "title": "Holiday Greetings",
+        "date": "2023-08-13",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/660099/ffffff",
+        "title": "Your Account is Now Active",
+        "date": "2023-08-12",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/009966/ffffff",
+        "title": "Customer Appreciation Month",
+        "date": "2023-08-11",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/996600/ffffff",
+        "title": "New Blog Post: Tips and Tricks",
+        "date": "2023-08-10",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/660066/ffffff",
+        "title": "Summer Sale Starts Now",
+        "date": "2023-08-09",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ff6666/ffffff",
+        "title": "Limited-Time Offer",
+        "date": "2023-08-08",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66ff66/ffffff",
+        "title": "Join Our Community Forum",
+        "date": "2023-08-07",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/6666ff/ffffff",
+        "title": "Customer Spotlight: Success Story",
+        "date": "2023-08-06",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ffff66/ffffff",
+        "title": "New Chat Support Hours",
+        "date": "2023-08-05",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ff66ff/ffffff",
+        "title": "Valuable Feedback Wanted",
+        "date": "2023-08-04",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66ffff/ffffff",
+        "title": "Upcoming Webinar: Register Now",
+        "date": "2023-08-03",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/9966ff/ffffff",
+        "title": "Customer Satisfaction Survey",
+        "date": "2023-08-02",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66ccff/ffffff",
+        "title": "New Feature Sneak Peek",
+        "date": "2023-08-01",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/cc6666/ffffff",
+        "title": "Account Password Reset",
+        "date": "2023-07-31",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc66/ffffff",
+        "title": "Join Our Loyalty Program",
+        "date": "2023-07-30",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/cc3366/ffffff",
+        "title": "Important Service Update",
+        "date": "2023-07-29",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/cccc66/ffffff",
+        "title": "New Mobile App Now Available",
+        "date": "2023-07-28",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc99/ffffff",
+        "title": "Customer Testimonials Wanted",
+        "date": "2023-07-27",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/cc9966/ffffff",
+        "title": "Limited Stock: Order Now",
+        "date": "2023-07-26",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/3366cc/ffffff",
+        "title": "Holiday Office Hours",
+        "date": "2023-07-25",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/9966cc/ffffff",
+        "title": "New E-Book Release",
+        "date": "2023-07-24",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc33/ffffff",
+        "title": "Stay Productive with Our Tips",
+        "date": "2023-07-23",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/cc33cc/ffffff",
+        "title": "Celebrate with Us",
+        "date": "2023-07-22",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/99cc66/ffffff",
+        "title": "New Customer Onboarding",
+        "date": "2023-07-21",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc66/ffffff",
+        "title": "Join Our Live Q&A Session",
+        "date": "2023-07-20",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ffcc66/ffffff",
+        "title": "Upgrade Your Subscription",
+        "date": "2023-07-19",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc66/ffffff",
+        "title": "Customer Appreciation Event",
+        "date": "2023-07-18",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/6699cc/ffffff",
+        "title": "Unlock Premium Features",
+        "date": "2023-07-17",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc66/ffffff",
+        "title": "New Video Tutorials",
+        "date": "2023-07-16",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/3366cc/ffffff",
+        "title": "Join Our Affiliate Program",
+        "date": "2023-07-15",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/9966cc/ffffff",
+        "title": "Important Policy Update",
+        "date": "2023-07-14",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc33/ffffff",
+        "title": "Discover New Opportunities",
+        "date": "2023-07-13",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/cc33cc/ffffff",
+        "title": "Feedback Contest: Win Prizes",
+        "date": "2023-07-12",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/99cc66/ffffff",
+        "title": "Upgrade Your Account",
+        "date": "2023-07-11",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc66/ffffff",
+        "title": "New Podcast Episodes",
+        "date": "2023-07-10",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/ffcc66/ffffff",
+        "title": "Exciting Product Sneak Peek",
+        "date": "2023-07-09",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/6699cc/ffffff",
+        "title": "Celebrate Our Anniversary",
+        "date": "2023-07-08",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc66/ffffff",
+        "title": "Important Legal Notice",
+        "date": "2023-07-07",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/3366cc/ffffff",
+        "title": "Join Our Beta Testing Program",
+        "date": "2023-07-06",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/9966cc/ffffff",
+        "title": "Upcoming Industry Webinar",
+        "date": "2023-07-05",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc33/ffffff",
+        "title": "New Resources for You",
+        "date": "2023-07-04",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/cc33cc/ffffff",
+        "title": "Join Our Online Workshop",
+        "date": "2023-07-03",
+        "status": "read"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/99cc66/ffffff",
+        "title": "Exclusive Membership Benefits",
+        "date": "2023-07-02",
+        "status": "unread"
+    },
+    {
+        "image": "https://dummyimage.com/100x100/66cc66/ffffff",
+        "title": "Share Your Success Story",
+        "date": "2023-07-01",
+        "status": "read"
+    }
+]

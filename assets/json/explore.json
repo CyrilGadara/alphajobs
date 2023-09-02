@@ -1,0 +1,120 @@
+[
+    {
+        "primary_category": "Information Technology",
+        "icon": "computer",
+        "subcategories": ["Software Developer", "Network Administrator", "Database Administrator", "Cybersecurity Analyst", "IT Project Manager"]
+    },
+    {
+        "primary_category": "Engineering",
+        "icon": "engineering",
+        "subcategories": ["Mechanical Engineer", "Electrical Engineer", "Civil Engineer", "Aerospace Engineer", "Biomedical Engineer"]
+    },
+    {
+        "primary_category": "Healthcare",
+        "icon": "medical_services",
+        "subcategories": ["Registered Nurse", "Physician", "Pharmacist", "Medical Laboratory Technician", "Physical Therapist"]
+    },
+    {
+        "primary_category": "Finance",
+        "icon": "attach_money",
+        "subcategories": ["Accountant", "Financial Analyst", "Investment Banker", "Financial Planner", "Actuary"]
+    },
+    {
+        "primary_category": "Education",
+        "icon": "school",
+        "subcategories": ["Teacher", "Professor", "School Counselor", "Librarian", "Education Administrator"]
+    },
+    {
+        "primary_category": "Marketing",
+        "icon": "storefront",
+        "subcategories": [
+            "Marketing Manager",
+            "Digital Marketing Specialist",
+            "Advertising Copywriter",
+            "Market Research Analyst",
+            "Public Relations Specialist"
+        ]
+    },
+    {
+        "primary_category": "Sales",
+        "icon": "shopping_cart",
+        "subcategories": ["Sales Representative", "Sales Manager", "Account Executive", "Retail Sales Associate", "Business Development Manager"]
+    },
+    {
+        "primary_category": "Health and Wellness",
+        "icon": "fitness_center",
+        "subcategories": ["Personal Trainer", "Nutritionist", "Yoga Instructor", "Physical Therapist", "Chiropractor"]
+    },
+    {
+        "primary_category": "Manufacturing",
+        "icon": "precision_manufacturing",
+        "subcategories": ["Production Supervisor", "Quality Control Inspector", "Manufacturing Engineer", "Machine Operator", "Supply Chain Manager"]
+    },
+    {
+        "primary_category": "Creative Arts",
+        "icon": "palette",
+        "subcategories": ["Graphic Designer", "Illustrator", "Photographer", "Writer/Author", "Film Director"]
+    },
+    {
+        "primary_category": "Legal",
+        "icon": "gavel",
+        "subcategories": ["Lawyer/Attorney", "Paralegal", "Legal Assistant", "Judge", "Court Reporter"]
+    },
+    {
+        "primary_category": "Science",
+        "icon": "science",
+        "subcategories": ["Biologist", "Chemist", "Physicist", "Environmental Scientist", "Geologist"]
+    },
+    {
+        "primary_category": "Customer Service",
+        "icon": "contact_support",
+        "subcategories": [
+            "Customer Service Representative",
+            "Call Center Supervisor",
+            "Customer Support Specialist",
+            "Technical Support Agent",
+            "Client Success Manager"
+        ]
+    },
+    {
+        "primary_category": "Human Resources",
+        "icon": "supervisor_account",
+        "subcategories": [
+            "Human Resources Manager",
+            "Recruiter",
+            "HR Generalist",
+            "Compensation and Benefits Specialist",
+            "Training and Development Specialist"
+        ]
+    },
+    {
+        "primary_category": "Government and Public Service",
+        "icon": "public",
+        "subcategories": ["Public Administrator", "Police Officer", "Firefighter", "Social Worker", "City Planner"]
+    },
+    {
+        "primary_category": "Construction and Trades",
+        "icon": "construction",
+        "subcategories": ["Construction Manager", "Carpenter", "Electrician", "Plumber", "Welder"]
+    },
+    {
+        "primary_category": "Hospitality and Tourism",
+        "icon": "room_service",
+        "subcategories": ["Hotel Manager", "Chef", "Tour Guide", "Event Planner", "Travel Agent"]
+    },
+    {
+        "primary_category": "Agriculture",
+        "icon": "eco",
+        "subcategories": ["Farmer", "Agricultural Scientist", "Farm Manager", "Agronomist", "Agricultural Engineer"]
+    },
+    {
+        "primary_category": "Retail",
+        "icon": "shopping_basket",
+        "subcategories": ["Store Manager", "Retail Sales Associate", "Visual Merchandiser", "Inventory Specialist", "Loss Prevention Officer"]
+    },
+    {
+        "primary_category": "Transportation and Logistics",
+        "icon": "local_shipping",
+        "subcategories": ["Truck Driver", "Logistics Coordinator", "Supply Chain Analyst", "Air Traffic Controller", "Shipping and Receiving Clerk"]
+    }
+]
