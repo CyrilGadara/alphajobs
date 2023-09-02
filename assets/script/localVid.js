@@ -685,7 +685,7 @@ async function updateDOMWithVideos() {
         fragment.appendChild(videoDiv);
     });
 
-    function handleActionButtonClick(videoId, action) {
+    function handleActionButtonClick(videoId, action, url) {
         console.log(`Video ID: ${videoId}, Action: ${action}`);
         // Add your logic here for handling the button click
         if (action === "apply") {
