@@ -1,12 +1,12 @@
-const cacheName = "CSV3.0";
+const cacheName = "CSV3.1";
 
 const cachedFiles = [
     "/",
-    "/manifest.json",
-    "/assets/script/main.js",
-    "/assets/css/styles.css",
-    "/assets/css/fonts.css",
-    "/assets/fonts/material_icons.woff2",
+    "/alphajobs/manifest.json",
+    "/alphajobs/assets/script/main.js",
+    "/alphajobs/assets/css/styles.css",
+    "/alphajobs/assets/css/fonts.css",
+    "/alphajobs/assets/fonts/material_icons.woff2",
 ];
 
 self.addEventListener("install", (event) => {
