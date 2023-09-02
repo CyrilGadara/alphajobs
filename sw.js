@@ -2,7 +2,6 @@ const cacheName = "CSV2.6";
 
 const cachedFiles = [
     "/",
-    "/index.html",
     "/manifest.json",
     "/assets/script/main.js",
     "/assets/css/styles.css",
@@ -11,14 +10,14 @@ const cachedFiles = [
 ];
 
 self.addEventListener("install", (event) => {
-    console.log("Service Worker Install Event");
+    // console.log("Service Worker Install Event");
 
     //add files to the cache
     event.waitUntil(
         caches
             .open(cacheName)
             .then((cache) => {
-                console.log("Caching Files");
+                // console.log("Caching Files");
                 return cache.addAll(cachedFiles);
             })
             .then(() => {
@@ -31,7 +30,7 @@ self.addEventListener("install", (event) => {
 });
 
 self.addEventListener("activate", (event) => {
-    console.log("Service Worker Activated");
+    // console.log("Service Worker Activated");
 
     event.waitUntil(
         caches.keys().then((keyList) => {
@@ -50,7 +49,7 @@ self.addEventListener("activate", (event) => {
 });
 
 self.addEventListener("fetch", (event) => {
-    console.log(`Fetch Event ${event.request.url}`);
+    // console.log(`Fetch Event ${event.request.url}`);
 
     event.respondWith(
         caches.match(event.request).then((response) => {

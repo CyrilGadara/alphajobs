@@ -678,7 +678,7 @@ async function updateDOMWithVideos() {
         const actionButtons = videoDiv.querySelectorAll(".action-button");
         actionButtons.forEach((button) => {
             button.addEventListener("click", () => {
-                handleActionButtonClick(video.JobId, button.dataset.action);
+                handleActionButtonClick(video.JobId, button.dataset.action, video.Apply_URL);
             });
         });
 
@@ -688,6 +688,17 @@ async function updateDOMWithVideos() {
     function handleActionButtonClick(videoId, action) {
         console.log(`Video ID: ${videoId}, Action: ${action}`);
         // Add your logic here for handling the button click
+        if (action === "apply") {
+            // Open the link in a new tab
+            window.open(url, "_blank");
+
+            // Pause the video
+            const videoElement = document.getElementById(videoId).querySelector("video");
+            if (videoElement) {
+                videoElement.pause();
+                videoElement.currentTime = 0;
+            }
+        }
     }
     shortsContainer.insertBefore(fragment, loadingDiv);
     loadingDiv.style.display = "none";
