@@ -1,6 +1,6 @@
 if ("serviceWorker" in navigator) {
     navigator.serviceWorker
-        .register("/sw.js")
+        .register("/sw.js", { scope: "/alphajobs" })
         .then((result) => {
             console.log("Service Workers Registered Successfully");
             console.log(`Scope: ${result.scope}`);
