@@ -585,7 +585,7 @@ aside .aside__nav--group {
 }
 
 .short-video .overlay .details-overlay .title {
-    margin-bottom: 12px;
+    margin-bottom: 8px;
     font-family: "Roboto", "Arial", sans-serif;
     font-size: 1rem;
     line-height: 22px;
@@ -596,6 +596,13 @@ aside .aside__nav--group {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
     overflow: hidden;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.short-video .overlay .details-overlay .skills {
+    font-size: 13px;
+    font-weight: normal;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
 
 .short-video .overlay .actions-overlay {
