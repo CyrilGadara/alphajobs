@@ -1,4 +1,4 @@
-const cacheName = "CSV4.0";
+const cacheName = "CSV4.1";
 
 const cachedFiles = [
     "/alphajobs/",
